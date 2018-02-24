@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1454333650 source:d:\artem\c++\codeblock\chapter 7\7.6 gradebook with array\cgradebook.cpp
+	<string>
+	<iostream>
+	"CGradeBook.hpp"
+	<windows.h>
+
+1454335935 d:\artem\c++\codeblock\chapter 7\7.6 gradebook with array\cgradebook.hpp
+
+1454333399 source:d:\artem\c++\codeblock\chapter 7\7.6 gradebook with array\main.cpp
+	<iostream>
+	<string>
+	"CGradeBook.hpp"
+	<windows.h>
+
